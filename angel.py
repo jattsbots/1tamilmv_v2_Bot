@@ -29,8 +29,8 @@ def random_answer(message):
     )
     
     keyboard = types.InlineKeyboardMarkup().add(
-        types.InlineKeyboardButton('🔗 GitHub 🔗', url='https://github.com/SudoR2spr'),
-        types.InlineKeyboardButton(text="⚡ Powered By", url='https://t.me/Opleech_WD')
+        types.InlineKeyboardButton('🔗 Channel 🔗', url='https://t.me/PBX1_BOTS'),
+        types.InlineKeyboardButton(text="⚡ Powered By", url='https://t.me/PBX1_BOTS')
     )
     
     bot.send_photo(
